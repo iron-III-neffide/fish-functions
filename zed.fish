@@ -1,3 +1,3 @@
 function zed
-    zeditor /home/noah/Dokumente/Programming
+    zeditor $HOME/Dokumente/Programming
 end

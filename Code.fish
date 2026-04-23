@@ -1,3 +1,3 @@
 function Code
-    cd /home/noah/Dokumente/Programming
+    cd $HOME/Dokumente/Programming
 end
