@@ -1,3 +1,3 @@
 function fzo
-    $argv[1] $(fzf)
+   okular $(fzf)
 end
