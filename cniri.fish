@@ -1,3 +1,3 @@
-function Cniri
+function cniri
     zeditor $HOME/.config/niri/
 end

@@ -1,3 +1,3 @@
-function Cfish
+function cfish
     zeditor $HOME/.config/fish/
 end
