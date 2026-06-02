@@ -1,3 +1,3 @@
 function cfish
-    nvim $HOME/.config/fish/
+    zeditor $HOME/.config/fish/
 end
