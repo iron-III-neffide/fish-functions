@@ -1,3 +1,3 @@
 function cniri
-    zeditor $HOME/.config/niri/
+    nvim $HOME/.config/niri/
 end
