@@ -1,3 +1,3 @@
-function fzo
+function fo
    okular $(fzf)
 end
